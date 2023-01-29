@@ -1,0 +1,12 @@
+{
+  "name": "decks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "marp -ps ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

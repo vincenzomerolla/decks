@@ -1,0 +1,16 @@
+{
+  "name": "decks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.2.0",
+    "turbo": "^1.6.3"
+  }
+}
